@@ -34,4 +34,7 @@ Este código simula la trayectoria de una bomba lanzada desde un avión en vuelo
 ## Video de presentacion 
 Hacer click en la imagen para ver el video
 
-[![Haz clic para ver el video](Video.png)](Ejecucion.mp4)
+<a href="Ejecucion.mp4">
+  <img src="Video.png" alt="Haz clic para ver el video" width="150">
+</a>
+
