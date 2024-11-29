@@ -28,4 +28,5 @@ Este código simula la trayectoria de una bomba lanzada desde un avión en vuelo
 
 ## Video de presentacion 
 Hacer click en la imagen para ver el video
+
 [![Haz clic para ver el video](Video.png)](Ejecucion.mp4)
