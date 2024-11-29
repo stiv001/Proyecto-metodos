@@ -23,6 +23,8 @@ Accede al informe del proyecto atraves del siguiente enlace
 ## Descripcion codigo
 Este código simula la trayectoria de una bomba lanzada desde un avión en vuelo sobre un terreno con un cráter. Usa una interfaz gráfica para ingresar parámetros como la altura del avión, el ángulo del cráter, y la velocidad inicial de la bomba. Luego, genera una animación que muestra el movimiento del avión y la caída de la bomba, detectando colisiones con el terreno y las paredes del cráter.
 
+[![Haz clic para ver el video](link.jpg)](https://github.com/stiv001/Proyecto-metodos.git)
+
 ## Presentacion del Proyecto
 
 
