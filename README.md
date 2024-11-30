@@ -19,6 +19,7 @@ Cuando el avión se encuentra a una distancia $d$, el cañón suelta una bomba.
 
 ## Informe del Proyecto
 Accede al informe del proyecto atraves del siguiente enlace
+[![Haz clic para ver el video](Imagen3.png)](Informe_sobrevuelo.pdf)
 
 ## Descripcion codigo
 Este código simula la trayectoria de una bomba lanzada desde un avión en vuelo sobre un terreno con un cráter. Usa una interfaz gráfica para ingresar parámetros como la altura del avión, el ángulo del cráter, y la velocidad inicial de la bomba. Luego, genera una animación que muestra el movimiento del avión y la caída de la bomba, detectando colisiones con el terreno y las paredes del cráter.
@@ -28,5 +29,4 @@ Este código simula la trayectoria de una bomba lanzada desde un avión en vuelo
 
 ## Video de presentacion 
 Hacer click en la imagen para ver el video
-
-[![Haz clic para ver el video](Video.png)](Ejecucion.mp4)
+    [![Haz clic para ver el video](Video.png)](Ejecucion.mp4)
