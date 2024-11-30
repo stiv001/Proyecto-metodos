@@ -30,6 +30,11 @@ Este código simula la trayectoria de una bomba lanzada desde un avión en vuelo
   <img src="link.jpg" alt="Haz clic para ver el video" width="150">
 </a>
 
+## Documentacion
+Hacer click en la imagen
+
+[![Haz clic para ver el video](Imagen3.png)](Documentacion.pdf)
+
 ## Presentacion del Proyecto
 
 <a href="https://www.canva.com/design/DAGX5xTybn8/irjvjereVYqLB5qGz30e9w/edit">
