@@ -19,6 +19,7 @@ Cuando el avión se encuentra a una distancia $d$, el cañón suelta una bomba.
 
 ## Informe del Proyecto 
 Accede al informe del proyecto atraves del siguiente enlace
+
 [![Haz clic para ver el video](Imagen3.png)](Informe_sobrevuelo.pdf)
 
 ## Descripcion codigo
