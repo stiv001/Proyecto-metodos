@@ -12,7 +12,7 @@ Un avión vuela con velocidad $V$ a $H_a$ metros del suelo en dirección a un ca
 El cañón tiene forma de trapecio isósceles invertido, con una altura $H_c$, un largo $L$ y un ángulo $\\alpha$ con respecto al horizonte.  
 Cuando el avión se encuentra a una distancia $d$, el cañón suelta una bomba.  
 
-![Cañón y trayectoria del avión](im2.png)
+![Cañón y trayectoria del avión](im2.png)  
 
 ## Objetivo
 - Graficar la trayectoria de la bomba y mostrar el punto donde impacta, ya sea este dentro o fuera del crater.
