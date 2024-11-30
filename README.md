@@ -17,7 +17,7 @@ Cuando el avión se encuentra a una distancia $d$, el cañón suelta una bomba.
 ## Objetivo
 - Graficar la trayectoria de la bomba y mostrar el punto donde impacta, ya sea este dentro o fuera del crater.
 
-## Informe del Proyecto
+## Informe del Proyecto 
 Accede al informe del proyecto atraves del siguiente enlace
 [![Haz clic para ver el video](Imagen3.png)](Informe_sobrevuelo.pdf)
 
